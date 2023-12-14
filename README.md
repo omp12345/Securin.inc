@@ -16,3 +16,11 @@ https://web.whatsapp.com/386fba16-0d45-482a-80df-81fa6b5d8e93
 https://web.whatsapp.com/b6524cc3-daf5-4c47-901c-a5ec5e126924
 https://web.whatsapp.com/660d48a2-906d-41c2-891d-287336718eb3
 https://web.whatsapp.com/386fba16-0d45-482a-80df-81fa6b5d8e93
+
+
+
+
+
+part(B) ans  output screensot
+https://web.whatsapp.com/4c97bf16-8a05-4078-a87d-34bed41bd0b9
+
