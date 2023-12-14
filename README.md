@@ -1,6 +1,6 @@
 # Securin.inc
 
-this is the problem statement
+<p>this is the problem statement
 The below problems must be solved & implemented in Python/Java/Ruby/C++/Go
 You are given two six-sided dice, Die A and Die B, each with faces numbered from 1 to
 6.
@@ -9,18 +9,61 @@ Example: Die A = 6, Die B = 3. Sum = 6 + 3 = 9
 
 You may represent Dice as an Array or Array-like structure.
 Die A = [1, 2, 3, 4, 5, 6] where the indices represent the 6 faces of the die & the value on
-each face.
+each face </p>
+
+<p> part (A)
+1. How many total combinations are possible? Show the math along with the code!
+2. Calculate and display the distribution of all possible combinations that can be
+obtained when rolling both Die A and Die B together. Show the math along with
+the code!
+Hint: A 6 x 6 Matrix.
+3. Calculate the Probability of all Possible Sums occurring among the number of
+combinations from (2).
+Example: P(Sum = 2) = 1/X as there is only one combination possible to obtain
+Sum = 2. Die A = Die B = 1. </p>
 output of  part(A) 
-https://web.whatsapp.com/386fba16-0d45-482a-80df-81fa6b5d8e93
-
-https://web.whatsapp.com/b6524cc3-daf5-4c47-901c-a5ec5e126924
-https://web.whatsapp.com/660d48a2-906d-41c2-891d-287336718eb3
-https://web.whatsapp.com/386fba16-0d45-482a-80df-81fa6b5d8e93
-
-
-
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/30e0189a-0f1c-49ab-b36b-9790ad3472a8"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/7b150f8d-0b3a-4ee7-b37a-19151e7f4fc4"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/30e0189a-0f1c-49ab-b36b-9790ad3472a"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/30e0189a-0f1c-49ab-b36b-9790ad3472a8" />
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/3f366e4d-04b0-4792-acbc-5a6cd6e286a5"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/1f5ec585-5ad1-4794-ae72-28bed30d4e6d"/>
 
 
-part(B) ans  output screensot
-https://web.whatsapp.com/4c97bf16-8a05-4078-a87d-34bed41bd0b9
+
+ <p>Now comes the real challenge. You were happily spending a lazy afternoon playing
+your board game with your dice when suddenly the mischievous Norse God Loki ( You
+love Thor too much & Loki didn’t like that much ) appeared.
+Loki dooms your dice for his fun removing all the “Spots” off the dice.
+
+No problem! You have the tools to re-attach the “Spots” back on the Dice.
+However, Loki has doomed your dice with the following conditions:
+● Die A cannot have more than 4 Spots on a face.
+● Die A may have multiple faces with the same number of spots.
+● Die B can have as many spots on a face as necessary i.e. even more than 6.
+But in order to play your game, the probability of obtaining the Sums must remain the
+same!
+So if you could only roll P(Sum = 2) = 1/X, the new dice must have the spots reattached
+such that those probabilities are not changed.
+Input:
+● Die_A = [1, 2, 3, 4, 5, 6] & Die B = Die_A = [1, 2, 3, 4, 5, 6]
+Output:
+● A Transform Function undoom_dice that takes (Die_A, Die_B) as input &
+outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
+?, ?, ?, ?] where,
+● No New_Die A[x] > 4</p>
+
+<p>output of Part(B)</p>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/72e08817-44a4-4c0a-85b0-9b8a0051b963"/>
+
+
+
+
+
+
+
+
+
+
+
 
