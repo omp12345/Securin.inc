@@ -1,4 +1,4 @@
-// took a variable for part B for standard probabilities
+
 
 // Function to calculate all possible combinations
 
