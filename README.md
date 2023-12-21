@@ -54,20 +54,20 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 ● No New_Die A[x] > 4</p>
 
 <p>output of Part(B)</p>
-<img src="![new1](https://github.com/omp12345/Securin.inc/assets/112754710/2d69d832-4083-4ef2-a2f7-98be3461d0c5)"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/2d69d832-4083-4ef2-a2f7-98be3461d0c5"/>
 
-<img src="![new2](https://github.com/omp12345/Securin.inc/assets/112754710/0dee1366-9fbf-4f0f-9dee-4073ee5ad4ad)"/>
-
-
-<img src="![new3](https://github.com/omp12345/Securin.inc/assets/112754710/969e560c-157b-41aa-b5b6-e045375d7954)"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/0dee1366-9fbf-4f0f-9dee-4073ee5ad4ad"/>
 
 
-<img src="![new4](https://github.com/omp12345/Securin.inc/assets/112754710/1fbf1793-2848-47d0-885a-80ef66bf51c3)"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/969e560c-157b-41aa-b5b6-e045375d7954"/>
 
 
-<img src="![new5](https://github.com/omp12345/Securin.inc/assets/112754710/ce3eedce-8276-4222-89a4-62c5d4db9aeb)"/>
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/1fbf1793-2848-47d0-885a-80ef66bf51c3"/>
 
-<img src="![new6](https://github.com/omp12345/Securin.inc/assets/112754710/1b6c780c-c230-4501-85d0-c3652cec0b21)"/>
+
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/ce3eedce-8276-4222-89a4-62c5d4db9aeb"/>
+
+<img src="https://github.com/omp12345/Securin.inc/assets/112754710/1b6c780c-c230-4501-85d0-c3652cec0b21"/>
 
 
 <p>and so on when we rolled with multiple times we will get the new_diaA and New_diab</p>
